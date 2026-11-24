@@ -61,7 +61,7 @@ dev = [
     "pre-commit>=3.7.0",
     "virtualenv>=21.14.12",  # seed pre-commit environments with pip>=26.2.2
     "pillow>=10.1.0",
-    "datamodel_code_generator>=0.26.3",
+    "datamodel_code_generator>=0.81.0",
     "build>=1.0.3",
     "numpy>=1.26.0",
     # LiteLLM proxy imports an internal FastAPI helper removed in 0.140.7.
